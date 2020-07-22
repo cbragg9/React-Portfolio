@@ -10,7 +10,19 @@ class App extends React.Component {
 
 
   render() {
-    return 
+    return (
+      <Router>
+        <div className="page-container">
+          <Navbar />
+          <div className="content-wrap">
+            <Route exact path="/" component={Home} />
+            <Route exact path="/about" component={About} />
+            <Route exact path="/portfolio" component={Portfolio} />
+          </div>
+          <Footer />
+        </div>
+      </Router>
+    )
   }
 
 }
