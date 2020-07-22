@@ -97,3 +97,69 @@ h3, p {
 .fa-github {
   color: #61ffba;
 }
+
+.left-button {
+  margin-right: 8%;
+}
+
+.left-button, .right-button {
+  background-color: #084f93;
+  border-color: #084f93;
+  color: #F5F5F5;
+}
+
+.left-button:hover, .right-button:hover {
+  background-color:#ff6a00;
+  border-color: #ff6a00;
+  color: #F5F5F5;
+}
+
+.left-button:focus, .right-button:focus {
+  background-color:#ed4255;
+  border-color: #ed4255;
+  color: #F5F5F5;
+}
+
+.card-body {
+  color: #F5F5F5 !important;
+  background-color: #1c1d25;
+  opacity: 90%;
+}
+
+.span-links {
+  padding: 8px;
+  margin: 0% 2%;
+}
+
+#resume-span {
+  background-color: #00a2e2;
+  color: #084f93;
+}
+
+#linkedin-span {
+  background-color: #ed4255;
+  color: #a20417;
+}
+
+#github-span {
+  background-color: #61ffba;
+  color: #20686c;
+}
+
+#resume-span:hover, #linkedin-span:hover, #github-span:hover, .fa-chevron-circle-up:hover {
+  color: #F5F5F5;
+}
+
+.card-title {
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  font-weight: bold;
+}
+
+.fa-chevron-circle-up {
+  position: fixed;
+  bottom: 5%;
+  right: 5%;
+  z-index: 1;
+  color: #61ffba;
+}
