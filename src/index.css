@@ -163,3 +163,28 @@ h3, p {
   z-index: 1;
   color: #61ffba;
 }
+
+.squares {
+  position: fixed;
+  left: 50vw;
+  top: 35vh;
+  z-index: -10;
+}
+
+@media only screen and (max-width: 640px) {
+  .squares {
+    top: 50vh;
+    left: 30vw;
+  }
+  
+  .nav-row, .footer {
+    background-color: #1c1d25;
+    opacity: 80%;
+  }
+
+}
+
+.corner {
+  position: fixed;
+  z-index: -10;
+}
