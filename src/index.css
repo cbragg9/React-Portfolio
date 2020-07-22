@@ -6,6 +6,8 @@ body {
   padding: 0px;
   overflow-x: hidden; 
   font-family: Helvetica, sans-serif;
+  background-color: #1c1d25;
+  color: #F5F5F5;
 }
 
 code {
@@ -54,4 +56,44 @@ h3, p {
 
 .content-wrap {
   padding-bottom: 3rem;
+}
+
+.about-row {
+  height: 100%;
+}
+
+.about-pic {
+  width: 20rem
+}
+
+.about-bio {
+  color: #F5F5F5;
+  background-color: #1c1d25;
+  opacity: 80%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 3rem
+}
+
+.active-link {
+  border-bottom: solid #F5F5F5 3px;
+}
+
+.letter-spaced {
+  letter-spacing: 0.25rem;
+}
+
+.fa-file {
+  color: #00a2e2;
+}
+
+.fa-linkedin {
+  color: #ed4255
+}
+
+.fa-github {
+  color: #61ffba;
 }
