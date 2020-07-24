@@ -53,4 +53,4 @@ cbraggdev@gmail.com
 
 <img src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg" width="300px">
 
-While overkill, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+While overkill, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and hosted on AWS S3.
