@@ -14,7 +14,7 @@ function About() {
               and challenge myself in this dynamic field.
             </p>
             <p>
-              I took University of Washington's Full Stack Coding Bootcamp from Feb-Aug 2020, starting me down this career path of continual learning.
+              I took University of Washington's Full Stack Coding Bootcamp from Feb-Aug 2020, that started me down this career path of continual learning.
               I studied the fundamentals of Web Development technologies focused primarily with the MERN stack, and supplemented my coursework with
               online courses on data structures and algorithms and learning in C#/Unity.
             </p>

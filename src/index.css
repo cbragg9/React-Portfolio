@@ -191,6 +191,11 @@ a {
     font-size: 1.25rem;
   }
 
+  h1, h4 {
+    background-color: #1c1d25;
+    opacity: 0.8;
+  }
+
 }
 
 .corner {

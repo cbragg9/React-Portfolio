@@ -1,5 +1,5 @@
 # React-Portfolio: Chris Bragg
-## Deployed: https://cbragg9.github.io/React-Portfolio/
+## Deployed: http://www.cbraggdev.com/
 
 
 Please visit my repo's to see demonstrations of the different skills I've learned while attending
@@ -43,6 +43,7 @@ cbraggdev@gmail.com
 * IndexedDB
 
 ### Dev Tools
+* AWS S3 Static Hosting
 * Heroku
 * Git
 * GitHub
