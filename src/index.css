@@ -39,11 +39,6 @@ h3, p {
 
 /* NAVBAR SECTION */
 @media only screen and (max-width: 335px) {
-  .nav-link {
-    padding: .25rem .25rem;
-    margin: 0rem .5rem;
-    font-size: 1rem;
-  }
 
   #banner-section .row .letter-spaced {
     font-size: 2.5rem;
@@ -189,6 +184,12 @@ a:hover {
   .nav-row, .footer {
     background-color: #1c1d25;
     opacity: 0.8;
+  }
+
+  .nav-link {
+    padding: .25rem .25rem;
+    margin: 0rem .5rem;
+    font-size: 1.25rem;
   }
 
 }
