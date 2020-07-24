@@ -3,7 +3,7 @@ import React from "react";
 function Banner() {
 
   return (
-    <section className="container-fluid my-5">
+    <section className="container-fluid my-5" id="banner-section">
       <div className="row text-center">
         <h1 className="col-12 letter-spaced">FULL STACK DEVELOPER</h1>
         <h4 className="col-12">Christopher Bragg</h4>

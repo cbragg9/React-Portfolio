@@ -96,7 +96,7 @@ function Portfolio() {
 
   return (
     <main>
-      <h1 className="text-center my-5 letter-spaced">PROJECTS</h1>
+      <h1 className="text-center my-5 letter-spaced" id="portfolio-section">PROJECTS</h1>
       {projects.map(project => {
         return (
           <div className="container" key={project.keyName}>
@@ -119,7 +119,7 @@ function Portfolio() {
           </div>
         )
       })}
-      <a href="#top-of-page"><i className="fas fa-chevron-circle-up fa-2x"></i></a>
+      <a href="#portfolio-section"><i className="fas fa-chevron-circle-up fa-2x"></i></a>
     </main>
   )
 }
