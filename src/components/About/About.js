@@ -9,12 +9,12 @@ function About() {
           <div className="col-12 offset-lg-2 col-lg-4 about-bio">
             <h3>About Chris</h3>
             <p>
-              Thank you for visiting my portfolio! After graduating with a BS in Molecular Biology from Univ. of Washington in 2012 and spending 8
+              Thank you for visiting my portfolio! After graduating with a BS in Molecular Biology from University of Washington in 2012 and spending 8
               years working and managing clinical biotech Next-Gen Sequencing laboratories, I'm now looking to learn the "tech" side of biotech
               and challenge myself in this dynamic field.
             </p>
             <p>
-              I took Univ of Washington's Full Stack Coding Bootcamp from Feb-Aug 2020, starting me down this career path of continual learning.
+              I took University of Washington's Full Stack Coding Bootcamp from Feb-Aug 2020, starting me down this career path of continual learning.
               I studied the fundamentals of Web Development technologies focused primarily with the MERN stack, and supplemented my coursework with
               online courses on data structures and algorithms and learning in C#/Unity.
             </p>

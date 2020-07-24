@@ -40,7 +40,7 @@ function Portfolio() {
     },
     {
       title: "MongoDB Workout Tracker",
-      GIF: "https://media.giphy.com/media/jTkhRYlE4NuXmkAegg/giphy.gif",
+      GIF: "https://media.giphy.com/media/QakkdExPfNQQgLbwmC/giphy.gif",
       description: "View, create, and track daily workouts on this app built using MongoDB/Mongoose and Express.",
       github: "https://github.com/cbragg9/NoSQL-Workout-Tracker",
       deployed: "https://fitness-tracker-cbraggdev.herokuapp.com/",
@@ -120,7 +120,6 @@ function Portfolio() {
           </div>
         )
       })}
-      <a href="#portfolio-section"><i className="fas fa-chevron-circle-up fa-2x"></i></a>
     </main>
   )
 }

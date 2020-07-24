@@ -55,10 +55,6 @@ a {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-a:hover {
-  color: #FF9C23;
-}
-
 /* ABOUT ME SECTION */
 .about-row {
   height: 100%;
@@ -162,9 +158,12 @@ a:hover {
   color: #20686c;
 }
 
-#resume-span:hover, #linkedin-span:hover, #github-span:hover, .fa-chevron-circle-up:hover {
-  color: #F5F5F5;
+@media (hover: hover) {
+  #resume-span:hover, #linkedin-span:hover, #github-span:hover {
+    color: #F5F5F5;
+  }
 }
+
 
 /* SVG STYLING SECTION */
 .squares {
