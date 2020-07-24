@@ -70,7 +70,7 @@ a:hover {
 .about-bio {
   color: #F5F5F5;
   background-color: #1c1d25;
-  opacity: 80%;
+  opacity: 0.8;
 }
 
 /* FOOTER SECTION */
@@ -123,7 +123,7 @@ a:hover {
 .card-body {
   color: #F5F5F5 !important;
   background-color: #1c1d25;
-  opacity: 90%;
+  opacity: 0.9;
 }
 
 .card-title {
@@ -182,7 +182,7 @@ a:hover {
   /* Visibility on small screens */
   .nav-row, .footer {
     background-color: #1c1d25;
-    opacity: 80%;
+    opacity: 0.8;
   }
 
 }

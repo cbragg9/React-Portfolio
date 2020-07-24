@@ -20,7 +20,7 @@ function About() {
         friends Mario, Luigi, and Peach. Please reach out anytime, see footer for contact info.</p>
           </div>
           <div className="col-12 col-lg-4">
-            <img src="./assets/bio-pic.jpg" className="img-fluid about-pic" alt="cbragg-pic" />
+            <img src={process.env.PUBLIC_URL + '/assets/bio-pic.jpg'} className="img-fluid about-pic" alt="cbragg-pic" />
           </div>
         </div>
       </section>
