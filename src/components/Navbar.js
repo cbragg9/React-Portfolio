@@ -9,7 +9,7 @@ function Navbar(props) {
   }
 
   function highlightCurrent(param) {
-    if (location.pathname === param || location.pathname === "/React-Portfolio/") {
+    if (location.pathname === param) {
       return {color: "#FF9C23"}
     } else {
       return {}
