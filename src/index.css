@@ -41,6 +41,8 @@ h3, p {
 @media only screen and (max-width: 335px) {
   .nav-link {
     padding: .3rem .3rem;
+    margin: 0rem .5rem;
+    font-size: 1.25rem;
   }
 
   #banner-section .row .letter-spaced {
