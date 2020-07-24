@@ -40,9 +40,9 @@ h3, p {
 /* NAVBAR SECTION */
 @media only screen and (max-width: 335px) {
   .nav-link {
-    padding: .3rem .3rem;
+    padding: .25rem .25rem;
     margin: 0rem .5rem;
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
 
   #banner-section .row .letter-spaced {
