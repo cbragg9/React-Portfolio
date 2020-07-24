@@ -96,7 +96,8 @@ function Portfolio() {
 
   return (
     <main>
-      <h1 className="text-center my-5 letter-spaced" id="portfolio-section">PROJECTS</h1>
+      <h1 className="text-center mt-5 letter-spaced" id="portfolio-section">PROJECTS</h1>
+      <h6 className="text-center mb-5 letter-spaced" id="portfolio-section">*Please allow Heroku deployed apps a few seconds to wake up.</h6>
       {projects.map(project => {
         return (
           <div className="container" key={project.keyName}>

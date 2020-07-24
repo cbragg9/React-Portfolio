@@ -46,7 +46,7 @@ function App() {
           childFactory={child => React.cloneElement(child, {
             classNames: animationClassNames
           })}>
-          <CSSTransition key={location.key} classNames={animationClassNames} enter={transition} exit={transition} timeout={500}>
+          <CSSTransition key={location.key} classNames={animationClassNames} enter={transition} timeout={500}>
             <Switch location={location}>
               <Route exact path="/" component={Home} />
               <Route exact path="/about" component={About} />

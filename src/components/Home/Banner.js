@@ -10,7 +10,7 @@ function Banner() {
       </div>
       <div className="row">
         <div className="col-12 text-center">
-          <a href="./assets/resume.pdf" target="_blank">
+          <a href={process.env.PUBLIC_URL + '/assets/resume.pdf'} target="_blank" rel="noopener noreferrer">
             <span className="span-links badge badge-primary" id="resume-span">Resume</span>
           </a>
           <a href="https://www.linkedin.com/in/cbragg9/" target="_blank" rel="noopener noreferrer">
